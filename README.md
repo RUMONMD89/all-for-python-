@@ -4,5 +4,5 @@
 
 ### kadai2 ###
 
-<img src="all-for-python-/spelling chacker" width ="400px">
+<img src="all-for-python-/spelling chacker/execution result.png" width ="400px">
 
