@@ -4,5 +4,5 @@
 
 ### kadai2 ###
 
-<img src="spelling chacker/execution result.png" height="400px" width ="400px">
+<img src="spelling chacker/execution result.png" height="400px" width ="700px">
 
