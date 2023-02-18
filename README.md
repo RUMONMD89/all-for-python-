@@ -7,4 +7,4 @@
 <img src="spelling chacker/execution result.png" height="400px" width ="700px">
 
 ### kadai3 ###
-<img src="text to speech /text to speech.png" height="400px" width ="700px">
+<img src="text to speech/text to speech.png" height="400px" width ="700px">
