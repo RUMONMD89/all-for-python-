@@ -1,5 +1,5 @@
 # all-for-python- #
-### kadai1...[creat login page] ###
+### kadai1...[create login page] ###
 <img src="create to gui login form using python/execution result.png" width ="700px">
 
 ### kadai2... ###
