@@ -2,7 +2,7 @@
 ### kadai1...[create login page] ###
 <img src="create to gui login form using python/execution result.png" width ="700px">
 
-### kadai2...[create] ###
+### kadai2...[create spelling checker] ###
 
 <img src="spelling chacker/execution result.png" height="400px" width ="700px">
 
